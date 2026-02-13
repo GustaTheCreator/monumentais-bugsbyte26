@@ -1,6 +1,6 @@
-# #PROJECT NAME#
+# LettyQuest - BugsByte Hackathon 2026
 
-(small intro about Bugsbyte Hackthon 2026 and the theme)
+(small intro about Bugsbyte Hackathon 2026 and the theme)
 
 ## Introduction
 
